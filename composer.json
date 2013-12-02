@@ -1,0 +1,6 @@
+{
+        "name": "sotmarket/realplexor",
+        "require": {
+                "php": ">=5.2.1"
+        }
+}
